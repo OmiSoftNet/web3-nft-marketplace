@@ -1,6 +1,6 @@
 # Blockchain NFT Marketplace
 
-If you have a desire to launch your own NFT Marketplace, but you are not ready to spend tens of thousands of dollars on the development and further support of the product, then you have come to the right place.
+If you have a desire to launch your own NFT Marketplace, but you are not ready to spend hundreds of thousands of dollars on the development and further support of the product, then you have come to the right place.
 
 We will help you with product implementation so that you can fully focus on marketing and sales.
 
@@ -23,7 +23,7 @@ We will help you with product implementation so that you can fully focus on mark
 - Microsoft Clarity (Marketing)
 
 <details>
-  <summary>Additional can be developed</summary>
+  <summary>Additional options can be developed</summary>
   <ul>
       <li>Wallet (Chrome Extension)</li>
       <li>GameFi Options + API</li>
