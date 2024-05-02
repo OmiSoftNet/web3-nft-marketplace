@@ -116,6 +116,35 @@ Write to us, and we will answer all your questions and tell you all about your p
 - Solana
 - And others, write to us if the network you need is not in this list
 
+## Frequently asked questions
+
+<details>
+  <summary>How much does it cost to develop NFT Marketplace?</summary>
+  <p>Depending on the complexity and required features the cost of White-label NFT Marketplace may vary. It starts from the basic $50k version and goes up to $200k depending on the parts. However, with our white-label NFT Marketplace, the cost is lower, starting from $10.000. If you want to know more, drop us a message for the estimate.</p>
+</details>
+
+<details>
+  <summary>How long does it take to develop NFT Marketplace?</summary>
+  <p>Since this is a White-Label solution, its development and launch takes 3-4 times less time than when developing it from scratch.</p>
+  <p>You will receive a ready-made solution in less than a month.</p>
+  <p>But if you need some additional functionality for marketing or community - the development of this functionality will be estimated separately.</p>
+</details>
+
+<details>
+  <summary>What are the key features of a good NFT Marketplace?</summary>
+  <p>All Ethereum-derived networks are currently supported, such as: Ethereum, Arbitrum, Optimism, Polygon, Base, BNB Chain, Avalanche, Celo and many others.</p>
+</details>
+
+<details>
+  <summary>What are the key features of OmiSoft’s White-label NFT Markeplace?</summary>
+  <p>The key features of our NFT Marketplace include an easy-to-use UX and mobile-friendly interface, multichain support, token creation, a convenient admin panel for system management, and flexible rule setting.</p>
+</details>
+
+<details>
+  <summary>How much does product maintenance cost?</summary>
+  <p>For Basic Package maintenance is free, for NoFee Package maintenance costs $5,000 per year.</p>
+</details>
+
 ## Summary
 
 Building a successful product is always an investment of a lot of time and personal focus. Not to mention financial investments.
